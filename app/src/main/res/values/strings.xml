@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time &amp; Date Picker</string>
+    <string name="from_date">Date</string>
+    <string name="from_time">From Time</string>
+    <string name="to_time">To Time</string>
+    <string name="space">\t\t-\t\t</string>
+    <string name="submit">Submit</string>
+    <string name="sample">Sample</string>
+    <string name="date">Date</string>
+</resources>
